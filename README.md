@@ -27,7 +27,7 @@ For example, if you want to perform SGLSC:
 
 [1] The code of superpixel segmentation (i.e., the filefolder of `./src/EntropyRateSuperpixel-master`) is cloned from https://github.com/mingyuliutw/EntropyRateSuperpixel
 
-[2] The solving process of sparse self-representation (i.e., the filefolder of `./src/SSC_ADMM_v1.1`) be referred to [The Vision, Dynamics and Learning Lab](http://vision.jhu.edu/code/).
+[2] The solving process of sparse self-representation (i.e., the filefolder of `./src/SSC_ADMM_v1.1`) is referred to [The Vision, Dynamics and Learning Lab](http://vision.jhu.edu/code/).
 
 
 
